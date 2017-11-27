@@ -1,0 +1,23 @@
+{
+  "name": "openui5-runtime",
+  "version": "1.50.5",
+  "description": "OpenUI5 Core & Runtime",
+  "private": false,
+  "keywords": [
+    "openui5",
+    "sapui5",
+    "ui5"
+  ],
+  "author": "SAP SE",
+  "contributors": [
+    "SAP SE <*@sap.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SAP/openui5.git"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "dependencies": {}
+}
